@@ -32,7 +32,6 @@ class queso: WKInterfaceController {
         let r = context as! Respuestas
         respuestaMasa = r.masa
         respuestaTamaño = r.tamaño
-        //respuestaContexto = context as! Respuestas
         // Configure interface objects here.
         
         for item in lista{
